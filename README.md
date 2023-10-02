@@ -8,7 +8,7 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 OTHER TEAMMATE - Soumyadeep Banerjee(GitHub Username - soubanj270)
 
-# THEME - Ed-Tech
+# THEME - Disaster Management Platform
 Crisis Recovery/Disaster Response Systems
 
 # PROBLEM STATEMENT 

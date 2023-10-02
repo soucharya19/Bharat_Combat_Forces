@@ -29,3 +29,10 @@ Bharat Combat Forces: Bharat Combat Force tracks down the location of the person
 <img src="https://github.com/soubhatta/Bharat-Codepedia-Ed_Tech-Project/assets/122465630/4c3b118c-4a9e-42b7-9fad-6b007b33411f" alt="JAVASCRIPT" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+# PROJECT WORKOUT STEPS
+
+1.IDE Used for building code - VS Code Software
+
+2.Project Launch and Deployment Website - Vercel App
+
+3.Tech Stacks Used - Web Developing Technologies like HTML, CSS, Javascript

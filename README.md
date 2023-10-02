@@ -1,6 +1,6 @@
 # MUJ_Hacks_8.0
 
-Website Development Project for MUJ Hacks 8.0. 36 Hour Hackathon organised by ELICIT and Manipal University, Jaipur
+Website Development Project for MUJ Hacks 8.0 - 36 Hour Hackathon organised by ELICIT and Manipal University, Jaipur
  
 # TEAM NAME - Hack Freaks
 
